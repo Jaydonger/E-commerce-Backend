@@ -27,11 +27,17 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      // get help
+      defaultValue: 10,
+      validate: {
       isNumeric: true,
+      },
     },
     category_id: {
       type: DataTypes.INTEGER,
+      references: {
+        model: 'category',
+        key: 'id',
+      },
       
     }
   },
