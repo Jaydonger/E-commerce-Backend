@@ -14,11 +14,11 @@ https://github.com/Jaydonger/E-commerce-Backend
 
 ##mockups
 
-![Alt text](/Assets/getTag.png?raw=true "GET request to a tag with an id of 4.")
+![Alt text](./Develop/Assets/getTag.png?raw=true "GET request to a tag with an id of 4.")
 
-![Alt text](/Assets/putTag.png?raw=true "PUT request to a tag with an id of 4, changing the tag name to 'blue'.")
+![Alt text](./Develop/Assets/putTag.png?raw=true "PUT request to a tag with an id of 4, changing the tag name to 'blue'.")
 
-![Alt text](/Assets/getTagUpdated.png?raw=true "GET request to the updated tag")
+![Alt text](./Develop/Assets/getTagUpdated.png?raw=true "GET request to the updated tag")
 
 
 Google Drive link to sample video of the application.
