@@ -23,4 +23,4 @@ https://github.com/Jaydonger/E-commerce-Backend
 
 Google Drive link to sample video of the application.
 
-https://drive.google.com/file/d/1mq_nFu8VcyKX5fZI-1ggAPRvclXz-aZ4/view
+https://drive.google.com/file/d/1ZjAieT-IZiys8LdFOGkfY7IwfLJy4p6a/view
